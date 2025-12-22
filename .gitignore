@@ -1,2 +1,37 @@
+
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Env & secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Build outputs
+build/
+dist/
+out/
+.next/
+
+# Logs
+*.log
+tmp/
+
 main.py
 client.py
